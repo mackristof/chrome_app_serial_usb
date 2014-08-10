@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "serial_connect",
+  "short_name": "serial_connect",
+  "description": "Description for serial_connect",
+
+  "version": "0.0.1.0",
+
+  "icons": {
+    "16": "icon_16.png",
+    "128": "icon_128.png"
+  },
+
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
